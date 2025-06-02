@@ -78,7 +78,7 @@
         }
       }
     },
-    "project1/{id}": {
+    "/project1/{id}": {
       "get": {
         "tags": [
           "users"
