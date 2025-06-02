@@ -22,7 +22,7 @@
         }
       }
     },
-    "project1/": {
+    "/project1/": {
       "get": {
         "tags": [
           "users"
